@@ -14,6 +14,6 @@
 **3. HW3** 
 - Download a YouTube HTML page, and extract the strings with information: titles, user, upload_time, duration, views. Save those lines to a txt file and then construct a csv table with those five columns using regex 
 
-**4. HW4 ** 
+**4. HW4** 
 - A C program that prints a memory map based on command line arguments 
 
